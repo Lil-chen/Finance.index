@@ -45,7 +45,7 @@ def yt_comment(title):
 
 
 
-yt_comment("bad and boujee")
+yt_comment("Aquaman and the Lost Kingdom | Trailer ")
 
 
 
